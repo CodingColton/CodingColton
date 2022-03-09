@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingColton
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Javascript, HTML, and CSS
 - 📫 You can reach me on Twitter @CodingColton
 
 <!---
