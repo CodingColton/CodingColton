@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CodingColton
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python, Javascript, HTML, and CSS
-- 📫 You can reach me on Twitter @CodingColton
+🌱 I’m currently learning Python, SQL, Javascript, HTML, and CSS
 
 <!---
 CodingColton/CodingColton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
