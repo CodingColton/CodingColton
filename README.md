@@ -1,4 +1,4 @@
-🌱 Interested in Data Analytics. Learning Python, SQL, Javascript, HTML, and CSS.
+🌱 Learning Python, SQL, Javascript, HTML, and CSS.
 
 <!---
 CodingColton/CodingColton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
